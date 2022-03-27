@@ -5,7 +5,7 @@
 
 I'm
 Salesforce CRM Technical Lead,
-I have 12 years of experience into IT industry, i started my career with .NET and currently working in CRM. I have worked in many technologies, here is the list of it: .NET, C#, Windows APP Developement, Windows Presentation Foundation (WPF), XAML, Windows Mobile Developement, APEX, Lightnining, LWC, HTML, CSS, JavaScript, SQL Server and counting 😄  
+I have 12 years of experience into IT industry, i have started my career with .NET and currently working in CRM. I have worked in many technologies, here is the list of it: .NET, C#, Windows APP Developement, Windows Presentation Foundation (WPF), XAML, Windows Mobile Developement, Kinect(Xbox), APEX, Lightnining, LWC, HTML, CSS, JavaScript, SQL Server and count gonna increase year by year 😄  
 
 
 ![Visitor Count](https://profile-counter.glitch.me/PradeepmkDeveloper/count.svg)
